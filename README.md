@@ -8,8 +8,12 @@ FEATURES
 
 INSTALLATION 
 
-Clone the repository: git clone https://github.com/yourusername/todo-app.git
+Clone the repository:
+1. git clone https://github.com/harryschlote/todo-app.git
 
-Install dependencies: cd todo-app npm install
+Install dependencies: 
+1. cd todo-app
+2. npm install
 
-Start the development server: npm run dev
+Start the development server:
+1. npm run dev
